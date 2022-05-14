@@ -22,7 +22,7 @@ public class Main {
 		
 		// if statement
 		
-if (unit.equals("k")) {
+	if (unit.equals("k")) {
 			
 			System.out.println(" Input weight kg: ");
 			int k = scan.nextInt();
